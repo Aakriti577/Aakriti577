@@ -1,4 +1,4 @@
-Hi there, I'm Aakriti Kumari
+## Hi there, I'm Aakriti Kumari
 
 💻 Passionate about Software Development, AI/ML and learning Data Structures & Algorithms  
 🌱 Currently learning Full-Stack Web Development and Machine Learning  
